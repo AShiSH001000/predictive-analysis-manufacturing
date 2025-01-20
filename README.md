@@ -51,8 +51,8 @@ The API will now be running locally at [http://127.0.0.1:8000](http://127.0.0.1:
    #### Response:
       ```json
             {
-              "accuracy": 0.85,
-              "f1_score": 0.88,
+              "accuracy": 0.6785714285714286,
+              "f1_score": 0.6896551724137931,
               "best_params": {
                 "criterion": "gini",
                 "max_depth": 20,
