@@ -74,8 +74,8 @@ The API will now be running locally at [http://127.0.0.1:8000](http://127.0.0.1:
 #### Response:
    ```json
    {
-  "Downtime": "Yes",
-  "Confidence": 0.85
+  "Downtime": "No",
+  "Confidence": 0.87
 }
 
    
